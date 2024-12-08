@@ -1,5 +1,7 @@
 #include "stack.h"
 //spk kodzik napisałeś 
+//dzk
+
 int main() {
     Stack st_1 = {NULL, NULL, 0};
 
