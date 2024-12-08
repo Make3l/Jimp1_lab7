@@ -1,5 +1,5 @@
 #include "stack.h"
-
+//to tez spk kodzi
 void addTop(Stack *cur, int val) {
     if (cur->next == NULL) {
         cur->next = (Stack *)malloc(sizeof(Stack));
